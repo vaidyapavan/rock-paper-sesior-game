@@ -1,0 +1,41 @@
+#Rock {
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 0.8rem 3rem;
+    background-color: aquamarine; /* Maintain consistency */
+    font-weight: 500;
+    cursor: pointer;
+    color: var(--main-color);
+    font-size: 1.7rem;
+}
+
+#Paper {
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 0.8rem 3rem;
+    background-color: aquamarine; /* Maintain consistency */
+    font-weight: 500;
+    cursor: pointer;
+    color: var(--main-color);
+    font-size: 1.7rem;
+}
+
+#Scissor {
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 0.8rem 3rem;
+    background-color: aquamarine; /* Maintain consistency */
+    font-weight: 500;
+    cursor: pointer;
+    color: var(--main-color);
+    font-size: 1.7rem;
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
